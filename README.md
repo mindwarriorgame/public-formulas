@@ -42,9 +42,12 @@ By default, all letters are translated with ChatGPT. If you want, please feel fr
 
 ## How to modify a Letter
 
-If you have spotted a typo, or wanted to modify your own Letter, please feel free to submit another PR (or an Issue explaining the change).
+If you have spotted a typo, or wanted to modify your own Letter, please feel free to submit another PR (or an Issue) with the change.
 
-If that's a notable change, please make sure you are using the same GitHub account that you were using for the first time submission of the Letter.
+If the modification is notable, please make sure 
+- you are using the same GitHub account that you were using for the first time submission of the Letter 
+- please provide `shared_key_uuid` (if it was regenerated) somewhere in the description to your change
+- please make sure the change complies with all the "Requirements" above.
 
 ## Privacy considerations
 
