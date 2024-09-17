@@ -5,7 +5,7 @@ All shared letters are compiled and published at https://mindwarriorgame.org/sha
 
 # Contributions
 
-Thank you very much for your contribution! Sharing what works for you might help other players to achieve their own goals and aspirations 🙌.
+Thank you very much for your contribution! Sharing what works for you might inspire and help other players to achieve their own goals and aspirations 🙌.
 
 ## Requirements to Letters
 
