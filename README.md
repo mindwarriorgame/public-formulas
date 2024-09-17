@@ -23,13 +23,9 @@ To share a Letter, you need to follow the following steps:
 - Send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot)
   - grab your `shared_key_uuid` <img width="470" alt="image" src="https://github.com/user-attachments/assets/d4a67c10-2e25-4ad0-9ac4-03d6dea9ac54">
 
-- Translate your formula to all messages supported by the bot. Currently these are:
-  - `en (English)`
-  - `ru (Russian)`
 - If you are familiar with GitHub contribution model:
   - raise a Pull Request with the content of your Letter and translations
-    - `letters/your-shared-key-uuid.en.md`
-    - `letters/your-shared-key-uuid.ru.md`
+    - `letters/your-shared-key-uuid.md`
 - If you are NOT familiar with GitHub:
     - just raise a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here
     - in the issue, please provide your `shared_key_uuid`, your Letter and the translations
