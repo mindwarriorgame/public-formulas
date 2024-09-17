@@ -52,7 +52,7 @@ We ask you to do that only after your Letter has been merged to the codebase of 
 
 ### Repository history
 
-Please note that GitHub contribution model saves the history of all modifications of the repository. In regards to sharing your Letter, that would make a permanent link between your Git and GitHub information and the Letter. If you are concerned with that, please consider either creating a temp GitHub account, or use some anonymizer (e.g. https://www.gitmask.com/).
+Please note that GitHub contribution model saves the history of all modifications of the repository. In regards to sharing your Letter, that would make a permanent link between your Git and GitHub information and the Letter. While there are possible strategies how to mitigate that (e.g. using anonymizers, like, https://www.gitmask.com/ or temp accounts), all them are subject to their own privacy considerations. Please be mindful about this.
 
 ## License
 
