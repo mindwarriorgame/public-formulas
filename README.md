@@ -16,7 +16,10 @@ To have your Letter accepted, it must comply with the following requirements:
 1. Spamming, advertising, or promoting unrelated products/services is not allowed.
 1. Avoid excessive profanity or offensive language.
 1. All Letters should be written in a clear and readable manner.
-1. At the moment of publishing, your active game counter must be at least 5 days and you must score postively.
+1. At the moment of publishing:
+  - your difficulty must be at least "Normal" (3/5)
+  - your active game counter must be at least 5 days
+  - your game scores must be positive
 
 ## How to share your Letter
 
@@ -48,7 +51,7 @@ If you have spotted a typo, or wanted to modify your own Letter, please feel fre
 
 Since we have asked for your `shared_key_uuid` , even though it doesn't contain any sensitive information about yourself (a random string), this might raise a Privacy concern. To address that, you could always regenerate `shared_key_uuid` for your playing account by sending `regenerate_shared_key_uuid` command to the bot. This will remove the logical link between the shared Letter and your playing account.
 
-We ask you to do that only after your Letter has been merged to the codebase of the repository, because otherwise we won't be able to check the requirements for Letter about the positive scores and the active game length.
+We ask you to do that only after your Letter has been merged to the codebase of the repository, because otherwise we won't be able to check the requirements for Letter about the difficulty, scores and the active game counter.
 
 ### Repository history
 
