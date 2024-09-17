@@ -29,6 +29,10 @@ To share a Letter, you need to follow the following steps:
 - If you are NOT familiar with GitHub:
     - just raise a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here
     - in the issue, please provide your `shared_key_uuid`, your Letter and the translations
+ 
+## Translations
+
+By default, all letters are translated with ChatGPT. If you want, please feel free to submit your own translations. For that insert the language code before `.md` extension (e.g. `my-uuid.ru.md`)
 
 ## How to modify a Letter
 
