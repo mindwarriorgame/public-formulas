@@ -31,7 +31,7 @@ To share a Letter, you need to follow the following steps:
 
 - If you are familiar with GitHub contribution model:
   - raise a Pull Request with the content of your Letter and translations
-    - `letters/your-shared-key-uuid.md`
+    - `letters/your-shared-key-uuid.lang-code.md`, e.g. `736dd20c-547a-4b69-9c2f-61b3e2e403c2.en.md`
 - If you are NOT familiar with GitHub:
     - just raise a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here
     - in the issue, please provide your `shared_key_uuid`, your Letter and the translations (if any)
