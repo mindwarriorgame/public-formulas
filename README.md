@@ -44,6 +44,8 @@ By default, all letters are translated with ChatGPT. If you want, please feel fr
 
 If you have spotted a typo, or wanted to modify your own Letter, please feel free to submit another PR (or an Issue explaining the change).
 
+If that's a notable change, please make sure you are using the same GitHub account that you were using for the first time submission of the Letter.
+
 ## Privacy considerations
 
 
