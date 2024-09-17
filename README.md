@@ -1,36 +1,49 @@
 # shared-letters
 Letters that the players have decided to share with everyone for inspiration.
 
-# Contributions
+All shared letters are compiled and published at https://mindwarriorgame.org/shared-letters to help other players.
 
-Thank you very much for sharing your wisdom thoughts! This repository follows the standard contribution model on GitHub. You'll need to fork this repository,
-make a change and then raise a Pull Request to have the change merged with our codebase. Please have a look at this (or similar) tutorial.
+# Contributions
 
 ## Requirements to Letters
 
 To have your Letter accepted, it must comply with the following requirements:
 
 1. The content must be respectful and constructive, free from hate speech, personal attacks, or discriminatory language.
-2. The Letter should not include any inappropriate content, such as sexual material, violent threats, or anything that violates the law.
-3. Letters must be relevant to the purpose of the project and should provide meaningful contributions.
-4. Spamming, advertising, or promoting unrelated products/services is not allowed.
-5. Avoid excessive profanity or offensive language.
-6. All Letters should be written in a clear and readable manner.
-7. The submission must adhere to the project’s code of conduct and contribute positively to the community.
-
-By following these guidelines, you help maintain a safe and productive space for all contributors.
-
+1. The Letter should not include any inappropriate content, such as sexual material, violent threats, or anything that violates the law.
+1. Spamming, advertising, or promoting unrelated products/services is not allowed.
+1. Avoid excessive profanity or offensive language.
+1. All Letters should be written in a clear and readable manner.
+1. At the moment of publishing, your active game counter must be at least 5 days and you must score postively.
 
 ## How to share your Letter
 
-To contribute, you need to follow the following steps:
+To share a Letter, you need to follow the following steps:
 
-1. Send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot)
+- Send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot)
   - grab your `shared_key_uuid` <img width="470" alt="image" src="https://github.com/user-attachments/assets/d4a67c10-2e25-4ad0-9ac4-03d6dea9ac54">
 
-1. Translate your formula to all messages supported by the bot. Currently these are: en (English) and ru (Russian)
-1. For each language, create 
+- Translate your formula to all messages supported by the bot. Currently these are:
+  - `en (English)`
+  - `ru (Russian)`
+- If you are familiar with GitHub contribution model:
+  - raise a Pull Request with the content of your Letter and translations
+    - `letters/your-shared-key-uuid.en.md`
+    - `letters/your-shared-key-uuid.ru.md`
+- If you are NOT familiar with GitHub:
+    - just raise a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here
+    - in the issue, please provide your `shared_key_uuid`, your Letter and the translations
+
+## How to modify a Letter
+
+If you have spotted a typo, or wanted to modify your own Letter, please feel free to submit another PR (or an Issue explaining the change).
+
+## Privacy considerations
+
+Since we have asked for your `shared_key_uuid` , even though it doesn't contain any sensitive information about yourself (a random string), this might raise a Privacy concern. To address that, you could always regenerate `shared_key_uuid` for your playing account by sending `regenerate_shared_key_uuid` command to the bot. 
+
+We ask you to do that only after your Letter has been merged to the codebase of the repository, because otherwise we won't be able to check the requirements for Letter about the positive scores and the active game length.
 
 ## License
 
-[MIT license](https://en.wikipedia.org/wiki/MIT_License) - please make sure you understand it before contributing!
+All content of this repository is under [MIT license](https://en.wikipedia.org/wiki/MIT_License). Your Letter will also become an essential part of this public, open source project. According to the license, you give everyone permission to use, copy, modify, merge, publish, distribute, sublicense, sell copies etc. of this text. Please make sure you understand it!
