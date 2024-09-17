@@ -29,7 +29,7 @@ To share a Letter, you need to follow the following steps:
     - `letters/your-shared-key-uuid.md`
 - If you are NOT familiar with GitHub:
     - just raise a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here
-    - in the issue, please provide your `shared_key_uuid`, your Letter and the translations
+    - in the issue, please provide your `shared_key_uuid`, your Letter and the translations (if any)
  
 ## Translations
 
