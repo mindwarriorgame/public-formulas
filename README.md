@@ -61,7 +61,7 @@ We ask you to do that only after your Letter has been merged to the codebase of 
 
 ### Repository history
 
-Please note that GitHub contribution model saves the history of all modifications of the repository. In regards to sharing your Letter, that would make a permanent link between your Git and GitHub information and the Letter. While there are possible strategies how to mitigate that (e.g. using anonymizers, like, https://www.gitmask.com/ or temp accounts), all them are subject to their own privacy considerations. (Also you might have troubles with upating your shared Letter later as if are not be able to identify you as the original author.) Please be mindful about this.
+Please note that GitHub contribution model saves the history of all modifications of the repository. In regards to sharing your Letter, that would make a permanent link between your Git and GitHub information and the Letter. While there are possible strategies how to mitigate that (e.g. using anonymizers, like, https://www.gitmask.com/ or temp accounts), all them are subject to their own privacy considerations. (And if we cannot identify you as the original author, you won't be able to submit a major upate for your Letter in the future.) Please be mindful about this.
 
 ## License
 
