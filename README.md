@@ -43,9 +43,16 @@ If you have spotted a typo, or wanted to modify your own Letter, please feel fre
 
 ## Privacy considerations
 
-Since we have asked for your `shared_key_uuid` , even though it doesn't contain any sensitive information about yourself (a random string), this might raise a Privacy concern. To address that, you could always regenerate `shared_key_uuid` for your playing account by sending `regenerate_shared_key_uuid` command to the bot. 
+
+### `shared_key_uuid`
+
+Since we have asked for your `shared_key_uuid` , even though it doesn't contain any sensitive information about yourself (a random string), this might raise a Privacy concern. To address that, you could always regenerate `shared_key_uuid` for your playing account by sending `regenerate_shared_key_uuid` command to the bot. This will remove the logical link between the shared Letter and your playing account.
 
 We ask you to do that only after your Letter has been merged to the codebase of the repository, because otherwise we won't be able to check the requirements for Letter about the positive scores and the active game length.
+
+### Repository history
+
+Please note that GitHub contribution model saves the history of all modifications of the repository. In regards to sharing your Letter, that would make a permanent link between your Git and GitHub information and the Letter. If you are concerned with that, please consider either creating a temp GitHub account, or use some anonymizer (e.g. https://www.gitmask.com/).
 
 ## License
 
