@@ -21,7 +21,8 @@ To have your Letter accepted, it must comply with the following requirements:
 To share a Letter, you need to follow the following steps:
 
 - Send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot)
-  - grab your `shared_key_uuid` <img width="470" alt="image" src="https://github.com/user-attachments/assets/d4a67c10-2e25-4ad0-9ac4-03d6dea9ac54">
+  - copy your `shared_key_uuid` , which is required for the following steps
+    - <img width="470" alt="image" src="https://github.com/user-attachments/assets/d4a67c10-2e25-4ad0-9ac4-03d6dea9ac54">
 
 - If you are familiar with GitHub contribution model:
   - raise a Pull Request with the content of your Letter and translations
