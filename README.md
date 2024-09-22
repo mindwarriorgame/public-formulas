@@ -1,4 +1,5 @@
-# shared-letters
+# MindWarrior game: Shared Letters
+
 Letters that the players have decided to share with everyone for inspiration.
 
 All the shared letters are compiled and published at https://mindwarriorgame.org/shared-letters to inspire other players.
