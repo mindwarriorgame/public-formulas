@@ -55,10 +55,10 @@ By default, all shared Letters are translated to missing languages using ChatGPT
 
 If you have spotted a typo, or wanted to modify your own Letter, please feel free to open another Issue and explain what you'd like to change.
 
-If the modification is major, please make sure 
-- you are using the same GitHub account that you were using for the first time submission of the Letter 
-- please provide `shared_key_uuid` (if it was regenerated) somewhere in the description of your change
-- please make sure the change complies with all the "Requirements to Letters".
+If the modification is major, please
+- make sure you are using the same GitHub account that you were using for the first time submission of the Letter 
+- provide your `shared_key_uuid` again
+- make sure the change complies with all the "Requirements to Letters".
 
 ## Privacy considerations
 
