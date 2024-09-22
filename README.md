@@ -26,27 +26,30 @@ To have your Letter accepted, it must comply with the following requirements:
 
 To share your Letter, please folow these steps:
 
-- Step 1: oubtain your `shared_key_uuid`. There are several ways how to do that:
-  - Option 1: send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), find and copy `shared_key_uuid` value
-    <img width="553" alt="image" src="https://github.com/user-attachments/assets/15bb09c5-ffc7-4169-b9f5-27f3812beced">
+### Step 1: oubtain your `shared_key_uuid`.
 
-  - Option 2: send `/letter` command to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), press `Share` button and copy `shared_key_uuid` value
+There are several ways how to do that, use whichever is more convenient:
+
+- Option 1: send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), find and copy `shared_key_uuid` value
+  <img width="553" alt="image" src="https://github.com/user-attachments/assets/15bb09c5-ffc7-4169-b9f5-27f3812beced">
+
+- Option 2: send `/letter` command to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), press `Share` button and copy `shared_key_uuid` value
     <img width="401" alt="image" src="https://github.com/user-attachments/assets/fb68451c-d766-4a47-a5bb-e504b8a5d420">
 
    
 
-- Step 2: create a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here with the following information:
-    - your `shared_key_uuid`
-    - your Letter
-    - clearly express your intent to share your Letter on our website
-      - please make sure you clearly understand that you are sharing your Letter under [MIT license](LICENSE) (the license of "MindWarrior" project)
+### Step 2: post your letter as a GitHub issue
+
+Create a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) for this repository and provide the following information:
+
+  - your `shared_key_uuid`
+  - your Letter
+  - clearly express your intent to share your Letter on our website
+    - please make sure you clearly understand that you are sharing your Letter under [MIT license](LICENSE) (the license of "MindWarrior" project)
      
-- (Alternatively, if you are familar with GitHub contribution model (forks, pull requests), please feel free to open a PR.
-  - don't forget to include your `shared_key_uuid` in PR's description)
- 
 ## Translations
 
-By default, all shared Letters are translated to missing languages using ChatGPT. If you'd like, please feel free to submit your own translation (add it to the Issue) 
+By default, all shared Letters are translated to missing languages using ChatGPT. If you'd like, please feel free to submit your own translations (add it to the Issue) 
 
 ## How to modify a Letter
 
