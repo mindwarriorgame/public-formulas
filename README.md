@@ -27,18 +27,23 @@ To share your Letter, please folow these steps:
 
 - Step 1: oubtain your `shared_key_uuid`. There are several ways how to do that:
   - Option 1: send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), find and copy `shared_key_uuid` value
-    - <img width="470" alt="image" src="https://github.com/user-attachments/assets/d4a67c10-2e25-4ad0-9ac4-03d6dea9ac54">
-  - Option 2: send `/letter` command to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), press `Share` button and copy `shared_key_uuid` value 
+    - <img width="558" alt="image" src="https://github.com/user-attachments/assets/c80c4643-5f56-4674-9dff-178c2893366b">
+  - Option 2: send `/letter` command to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), press `Share` button and copy `shared_key_uuid` value
+    - <img width="343" alt="image" src="https://github.com/user-attachments/assets/ed85c08d-980f-442b-b8d8-43cc67254846">
+   
 
 - Step 2: create a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here with the following information:
     - your `shared_key_uuid`
     - your Letter
     - clearly express your intent to share your Letter on our website
-      - please make sure you clearly understand that you are contributing your Letter under MIT license (the license of "MindWarrior" project), to avoid any misunderstandings in the future.
+      - please make sure you clearly understand that you are sharing your Letter under [MIT license](LICENSE) (the license of "MindWarrior" project)
+     
+- (Alternatively, if you are familar with GitHub contribution model (forks, pull requests), please feel free to open a PR.
+  - don't forget to include your `shared_key_uuid` in PR's description)
  
 ## Translations
 
-By default, all shared Letters are translated to the missing languages using ChatGPT. If you'd like, please feel free to submit your own translation (add it 
+By default, all shared Letters are translated to missing languages using ChatGPT. If you'd like, please feel free to submit your own translation (add it to the Issue) 
 
 ## How to modify a Letter
 
