@@ -73,4 +73,4 @@ Please note that GitHub contribution model saves the history of all modification
 
 ## License
 
-All content of this repository is under [MIT license](https://en.wikipedia.org/wiki/MIT_License). Your Letter will also become an essential part of this public, open source project. According to the license, you give everyone permission to use, copy, modify, merge, publish, distribute, sublicense, sell copies etc. of your Letter. Please make sure you understand it before contributing!
+All content of this repository is under [MIT license](https://en.wikipedia.org/wiki/MIT_License). Whatever you write in the Issue or in PR, including your Letter, becomes an essential part (content, documentation) of this public, open source project. According to the license, you give everyone permission to use, copy, modify, merge, publish, distribute, sublicense, sell copies etc. of your Letter. Please make sure you understand it before contributing!
