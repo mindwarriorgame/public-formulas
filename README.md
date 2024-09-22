@@ -1,11 +1,11 @@
 # shared-letters
 Letters that the players have decided to share with everyone for inspiration.
 
-All shared letters are compiled and published at https://mindwarriorgame.org/shared-letters to help other players.
+All the shared letters are compiled and published at https://mindwarriorgame.org/shared-letters to inspire other players.
 
 # Contributions
 
-Thank you very much for your contribution! Sharing what works for you might inspire and help other players to achieve their own goals and aspirations 🙌.
+Thank you very much for your contribution! Sharing what works for you could be a great help to other players to achieve their own goals and aspirations 🙌.
 
 ## Requirements to Letters
 
@@ -17,29 +17,28 @@ To have your Letter accepted, it must comply with the following requirements:
 1. Avoid excessive profanity or offensive language.
 1. All Letters should be written in a clear and readable manner.
 1. At the moment of publishing:
-  - your difficulty must be at least "Normal" (3/5)
+  - your difficulty level must be at least "Normal" (3/5)
   - your active game counter must be at least 5 days
   - your game scores must be positive
 
 ## How to share your Letter
 
-To share a Letter, you need to follow the following steps:
+To share your Letter, please folow these steps:
 
-- Send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot)
-  - copy your `shared_key_uuid` , which is required for the following steps
+- Step 1: oubtain your `shared_key_uuid`. There are several ways how to do that:
+  - Option 1: send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), find and copy `shared_key_uuid` value
     - <img width="470" alt="image" src="https://github.com/user-attachments/assets/d4a67c10-2e25-4ad0-9ac4-03d6dea9ac54">
+  - Option 2: send `/letter` command to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), press `Share` button and copy `shared_key_uuid` value 
 
-- If you are familiar with GitHub contribution model:
-  - raise a Pull Request with the content of your Letter and translations
-    - `letters/your-shared-key-uuid.lang-code.md`
-       - example: `letters/736dd20c-547a-4b69-9c2f-61b3e2e403c2.en.md`
-- If you are NOT familiar with GitHub:
-    - just raise a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here
-    - in the issue, please provide your `shared_key_uuid`, your Letter and the translations (if any)
+- Step 2: create a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here with the following information:
+    - your `shared_key_uuid`
+    - your Letter
+    - clearly express your intent to share your Letter on our website
+      - please make sure you clearly understand that you are contributing your Letter under MIT license (the license of "MindWarrior" project), to avoid any misunderstandings in the future.
  
 ## Translations
 
-By default, all shared Letters are translated with ChatGPT. If you want, please feel free to submit your own translations. For that insert the language code before `.md` extension (e.g. `my-uuid.ru.md`)
+By default, all shared Letters are translated to the missing languages using ChatGPT. If you'd like, please feel free to submit your own translation (add it 
 
 ## How to modify a Letter
 
