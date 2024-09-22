@@ -29,7 +29,8 @@ To share your Letter, please folow these steps:
   - Option 1: send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), find and copy `shared_key_uuid` value
     - <img width="558" alt="image" src="https://github.com/user-attachments/assets/c80c4643-5f56-4674-9dff-178c2893366b">
   - Option 2: send `/letter` command to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), press `Share` button and copy `shared_key_uuid` value
-    - <img width="343" alt="image" src="https://github.com/user-attachments/assets/ed85c08d-980f-442b-b8d8-43cc67254846">
+    - <img width="401" alt="image" src="https://github.com/user-attachments/assets/fb68451c-d766-4a47-a5bb-e504b8a5d420">
+
    
 
 - Step 2: create a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) here with the following information:
