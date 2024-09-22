@@ -14,7 +14,7 @@ To have your Letter accepted, it must comply with the following requirements:
 
 1. The content must be respectful and constructive, free from hate speech, personal attacks, or discriminatory language.
 1. The Letter should not include any inappropriate content, such as sexual material, violent threats, or anything that violates the law.
-1. Spamming, advertising, or promoting unrelated products/services is not allowed.
+1. Spamming, advertising, or promoting other products/services is not allowed.
 1. Avoid excessive profanity or offensive language.
 1. All Letters should be written in a clear and readable manner.
 1. At the moment of publishing:
