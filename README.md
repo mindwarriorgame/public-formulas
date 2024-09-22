@@ -53,7 +53,7 @@ By default, all shared Letters are translated to missing languages using ChatGPT
 
 ## How to modify a Letter
 
-If you have spotted a typo, or wanted to modify your own Letter, please feel free to submit another PR (or an Issue) with the change.
+If you have spotted a typo, or wanted to modify your own Letter, please feel free to open another Issue and explain what you'd like to change.
 
 If the modification is major, please make sure 
 - you are using the same GitHub account that you were using for the first time submission of the Letter 
