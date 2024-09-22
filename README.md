@@ -45,7 +45,7 @@ Create a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) f
   - your `shared_key_uuid`
   - your Letter
   - clearly express your intent to share your Letter on our website
-    - please make sure you clearly understand that you are sharing your Letter under [MIT license](LICENSE) (the license of "MindWarrior" project)
+    - please make sure you understand that you are sharing your Letter under [MIT license](LICENSE) (the license of this repository) and all the implications
      
 ## Translations
 
