@@ -38,7 +38,7 @@ There are several ways how to do that, use whichever is more convenient:
 
    
 
-### Step 2: post your letter as a GitHub issue
+### Step 2: copy your Letter and post it as a GitHub issue
 
 Create a new [Issue](https://github.com/mindwarriorgame/shared-letters/issues) for this repository and provide the following information:
 
