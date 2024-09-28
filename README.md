@@ -8,7 +8,7 @@ All the shared Formulas are compiled and published at our website https://mindwa
 
 Thank you very much for your contribution! Sharing a strong, working Formula would be a great help to someone else following their own goals and aspirations 🙌.
 
-## Requirements to Formul
+## Requirements to Formula
 
 To have your Formula accepted to this repository, it must comply with the following requirements:
 
