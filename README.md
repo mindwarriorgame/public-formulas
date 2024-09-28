@@ -6,7 +6,7 @@ All the shared Formulas are compiled and published at our website https://mindwa
 
 # Contributions
 
-Thank you very much for your contribution! Sharing what works for you could be a great help to other players to achieve their own goals and aspirations 🙌.
+Thank you very much for your contribution! Sharing a strong, working Formula would be a great help to someone else following their own goals and aspirations 🙌.
 
 ## Requirements to Formul
 
