@@ -1,4 +1,4 @@
-# MindWarrior game: Public Formulas
+# MindWarrior game: public Formulas
 
 [Formulas](https://mindwarriorgame.org/faq.en.html#formula) that the players have decided to share with everyone to inspire them.
 
