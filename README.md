@@ -69,7 +69,7 @@ If the modification is major, please
 
 Since we have asked for your `shared_key_uuid` , even though it doesn't contain any sensitive information about yourself (a random string), this might raise a Privacy concern. To address that, you could always regenerate `shared_key_uuid` for your playing account by sending `regenerate_shared_key_uuid` command to the bot. This will remove the logical link between the shared Formula and your playing account.
 
-<img width="710" alt="image" src="https://github.com/user-attachments/assets/c07c9888-2e63-4f9c-827e-4d4445133629">
+<img width="266" alt="image" src="https://github.com/user-attachments/assets/29c4ed19-a967-47f4-8da3-513140e9933f">
 
 We ask you to do that only after your Formula has been merged to the codebase of the repository, because otherwise we won't be able to check the requirements for Formula about the difficulty, scores and the active game counter.
 
