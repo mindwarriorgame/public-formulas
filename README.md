@@ -31,10 +31,12 @@ To share your Formula, please folow these steps:
 There are several ways how to do that, use whichever is more convenient:
 
 - Option 1: send `/data` message to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), find and copy `shared_key_uuid` value
-  <img width="553" alt="image" src="https://github.com/user-attachments/assets/15bb09c5-ffc7-4169-b9f5-27f3812beced">
+    - <img width="256" alt="image" src="https://github.com/user-attachments/assets/c71ea75b-c339-41d0-b53d-34507af95f10">
+
 
 - Option 2: send `/formula` command to [MindWarriorGame bot](https://t.me/MindWarriorGame_bot), press `Share` button and copy `shared_key_uuid` value
-    <img width="401" alt="image" src="https://github.com/user-attachments/assets/fb68451c-d766-4a47-a5bb-e504b8a5d420">
+    - <img width="897" alt="image" src="https://github.com/user-attachments/assets/db7e67bd-d038-4e11-8d3d-941464f95938">
+
 
    
 
