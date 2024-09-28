@@ -1,6 +1,6 @@
 # MindWarrior game: public Formulas
 
-[Formulas](https://mindwarriorgame.org/faq.en.html#formula) that the players have decided to share with everyone to inspire them.
+[Formulas](https://mindwarriorgame.org/faq.en.html#formula) that the players have decided to share in public with everyone.
 
 All the shared Formulas are compiled and published at our website https://mindwarriorgame.org to inspire other players.
 
