@@ -28,7 +28,7 @@
 
 ### Шаг 1: получите ваш `shared_key_uuid`.
 
-Есть несколько способов сделать это, используйте любой, который вам удобнее:
+Есть несколько способов сделать это. Используйте любой, который будет для вас удобнее:
 
 - Вариант 1: отправьте сообщение `/data` боту [MindWarriorGame](https://t.me/MindWarriorGame_bot), найдите и скопируйте значение `shared_key_uuid`.
     - <img width="272" alt="image" src="https://github.com/user-attachments/assets/97ccbe3b-9c55-46b4-9fd0-012f66526d51">
